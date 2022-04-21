@@ -1,1 +1,1 @@
-    nombre :Sebastián edad: 23
+sebastian   23
