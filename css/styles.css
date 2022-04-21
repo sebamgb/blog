@@ -12,3 +12,9 @@ body{
 #titulo{
     size: 100px;
 }
+
+header{
+    background-color: #0ff;
+    padding-right: 50px;
+    padding-left: 50px;
+}
