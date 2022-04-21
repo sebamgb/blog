@@ -14,3 +14,7 @@ body{
 #titulo{
     size: 100px;
 }
+
+header{
+    background-color: #0ff;
+}
