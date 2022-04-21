@@ -14,8 +14,9 @@ body{
 }
 
 #tag{
-    font-family: cursive;
+    font-family: Arial, Helvetica, sans-serif;
 }
+
 header{
     background-color: #0ff;
     padding-right: 50px;
