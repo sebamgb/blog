@@ -1,1 +1,1 @@
-sebastian   23
+nombre: Sebastián Apellido: Romero Edad: 23 
