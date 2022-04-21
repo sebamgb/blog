@@ -13,6 +13,9 @@ body{
     size: 100px;
 }
 
+#tag{
+    font-family: cursive;
+}
 header{
     background-color: #0ff;
     padding-right: 50px;
