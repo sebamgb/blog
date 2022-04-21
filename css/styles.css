@@ -1,5 +1,16 @@
 body{
     text-align: center;
-    color: green;
+    color: #000;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    border: #000 4px;
+    padding: 0;
+    margin: 5px auto;
+    display: inline-block;
+}
+
+#titulo{
+    size: 100px;
 }
