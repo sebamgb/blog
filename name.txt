@@ -1,1 +1,1 @@
-    nombre :Sebastián
+    nombre :Sebastián edad: 23
