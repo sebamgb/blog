@@ -9,6 +9,11 @@ body{
     display: inline-block;
 }
 
+
+.logo{
+    background-image: "../images/picachu.png.crdownload";
+    display: inline-block;
+}
 #titulo{
     size: 100px;
 }
