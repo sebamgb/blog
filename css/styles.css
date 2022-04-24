@@ -13,6 +13,8 @@ body{
 .logo{
     background-image: "../images/picachu.png.crdownload";
     display: inline-block;
+    width: 50px;
+    height: 50px;
 }
 #titulo{
     size: 100px;
