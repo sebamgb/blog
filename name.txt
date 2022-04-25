@@ -1,1 +1,1 @@
-nombre: Sebastián Apellido: Romero Edad: 23 
+nombre: Sebastián Apellido: Romero Edad: 23 master 1 
